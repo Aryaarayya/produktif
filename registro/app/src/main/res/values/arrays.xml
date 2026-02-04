@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="agama_array">
+            <item>PIlih Agama</item>
+            <item>Islam</item>
+            <item>Kristen</item>
+            <item>Katolik</item>
+            <item>Hindu</item>
+            <item>Buddha</item>
+            <item>Konghucu</item>
+        </string-array>
+
+        <string-array name="gender_array">
+            <item>Pilih Gender</item>
+            <item>Laki-Laki</item>
+            <item>Perempuan</item>
+        </string-array>
+</resources>
